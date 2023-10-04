@@ -1,13 +1,12 @@
 package ProjetoEscola;
 
 public class Disciplina {
-	
 	private String nome;
-	 private Professor professor;
-	 private double n1;
-	 private double n2;
-	 private double media;
-	 private boolean aprovacao;
+	private Professor professor;
+	private double n1;
+	private double n2;
+	private double media;
+	private boolean aprovacao;
 
 	 public Disciplina(String nome, Professor professor) {
 	     this.nome = nome;

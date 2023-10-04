@@ -1,6 +1,5 @@
 package ProjetoEscola;
 
-//Subclasse Professor
 public class Professor extends Pessoa {
 	 private int siape;
 	 private String formacao;
@@ -30,6 +29,7 @@ public class Professor extends Pessoa {
 	 @Override
 	 public void getApresentacao() {
 	     super.getApresentacao();
+	     System.out.println("Nome: " + super.getNome());
 	     System.out.println("SIAPE: " + siape);
 	     System.out.println("Nivel: " + formacao);
 	 }
