@@ -9,6 +9,7 @@ public class MediaAritmetica implements CalcularMedia {
 		}
 
 		double soma = 0;
+		
 		for (double nota : notas) {
 			soma += nota;
 		}

@@ -45,7 +45,7 @@ public class Disciplina {
 	     return media;
 	 }
 
-	 public boolean isAprovacao() {
+	 public boolean getAprovacao() {
 	     return aprovacao;
 	 }
 
