@@ -1,2 +1,2 @@
 # ProjetoEscola
-## Trabalho N1 – Projeto Escola
+## Trabalho de Programação Orientado a Objetos
